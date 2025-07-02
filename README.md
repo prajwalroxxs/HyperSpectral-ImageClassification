@@ -24,26 +24,6 @@ A comprehensive deep learning research project combining **Natural Language Proc
 
 ---
 
-## 🧱 Architecture
-
-ml_components/
-├── utils/
-│ └── data_utils.py
-├── preprocessing/
-│ ├── text_processor.py
-│ └── image_processor.py
-├── models/
-│ ├── nlp/text_classifier.py
-│ ├── computer_vision/image_classifier.py
-│ └── fusion/multimodal_classifier.py
-└── notebooks/
-└── fake_news_detection_research.ipynb
-
-markdown
-Copy
-Edit
-
----
 
 ## ⚙️ Technology Stack
 
