@@ -56,14 +56,3 @@ A comprehensive deep learning research project combining **Natural Language Proc
 - Meta-learned classifier for optimal fusion
 
 ---
-
-## 📡 API Endpoints
-
-| Method | Endpoint                     | Description                      |
-|--------|------------------------------|----------------------------------|
-| POST   | `/api/analyze`               | Multi-modal analysis             |
-| POST   | `/api/analyze/text-only`     | Text-only classification         |
-| POST   | `/api/analyze/image-only`    | Image-only classification        |
-| GET    | `/api/system/status`         | System health check              |
-| POST   | `/api/system/initialize`     | Initialize/reload ML models      |
-| GET    | `/api/analyze/history`       | Retrieve analysis history        |
