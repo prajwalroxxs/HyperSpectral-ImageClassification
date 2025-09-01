@@ -1,6 +1,5 @@
 # 🧠 Hyper Spectral Image Classification
-This repository contains code for hyperspectral image classification using machine learning and deep learning methods. It includes preprocessing, model training, and evaluation workflows for standard benchmark datasets.
-
+HyperSpectral-ImageClassification offers an end-to-end workflow for working with hyperspectral datasets. The implementation includes Jupyter notebooks and modular scripts for preprocessing, training, and evaluation, making it simple to reproduce results or extend with new models. Users can train classifiers, visualize predictions, and analyze results, while keeping datasets and outputs organized in a structured project format.
 ---
 
 ## 📂 Project Structure
