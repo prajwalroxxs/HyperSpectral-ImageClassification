@@ -1,5 +1,11 @@
 # 🧠 Hyper Spectral Image Classification
-HyperSpectral-ImageClassification offers an end-to-end workflow for working with hyperspectral datasets. The implementation includes Jupyter notebooks and modular scripts for preprocessing, training, and evaluation, making it simple to reproduce results or extend with new models. Users can train classifiers, visualize predictions, and analyze results, while keeping datasets and outputs organized in a structured project format.
+
+**HyperSpectral-ImageClassification** offers an end-to-end workflow for working with hyperspectral datasets.  
+
+- Includes Jupyter notebooks and modular scripts for **preprocessing**, **training**, and **evaluation**  
+- Simple to reproduce results or extend with new models  
+- Train classifiers, visualize predictions, and analyze results  
+- Organized structure to manage datasets and outputs efficiently  
 ---
 
 ## 📂 Project Structure
